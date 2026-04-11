@@ -1,0 +1,1 @@
+import{bg as t,bh as i,bi as o}from"./index-luRCGOLz.js";import{p as n}from"./directive-helpers-objmdP9x.js";const u=t(class extends i{constructor(){super(...arguments),this.key=o}render(r,e){return this.key=r,e}update(r,[e,s]){return e!==this.key&&(n(r),this.key=e),s}});export{u as i};

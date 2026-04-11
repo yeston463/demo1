@@ -1,0 +1,1 @@
+import{cc as u,bA as m}from"./index-luRCGOLz.js";import{f as d,s as p,u as v}from"./utils-PQmO_teQ.js";async function g(e,s,i){const r=d(e),o=p(r.query,{query:v({f:"json"}),...i});s.startsWith("{")&&(s=s.slice(1,-1));const t=u(r.path,"versions",s),{data:a}=await m(t,o),{versionName:n,versionGuid:c,...f}=a;return{...f,versionIdentifier:{name:n,guid:c}}}export{g as getVersion};

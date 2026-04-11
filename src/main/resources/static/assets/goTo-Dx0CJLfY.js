@@ -1,0 +1,1 @@
+function t(o,i,n){if(!i)throw new Error("`view` is not defined. Cannot go to viewpoint.");return n?n(i,o):i.goTo(o.target,o.options)}export{t as i};

@@ -1,0 +1,1 @@
+import{fI as a,bd as h,fJ as s,fK as e}from"./index-luRCGOLz.js";import{L as p}from"./densifyCurvedGeometry-B6pMzKOb.js";import{t as u}from"./densificationConstants-BxerWdOB.js";function w(t,i,n,o){const{height:r,width:f}=o??c(t),m=Math.min(f/i,r/n)*u();return p(t,{maxDeviation:m})}function c(t){const i=a(h(),t);return{width:e(i),height:s(i)}}export{w as n};

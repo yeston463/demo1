@@ -1,0 +1,1 @@
+import{U as l,h as a,X as t,_ as o,a as r,e as c}from"./index-luRCGOLz.js";let e=class extends l(a){constructor(s){super(s),this.accentColor=new t([255,127,0]),this.textColor=new t([255,255,255])}};o([r({type:t,nonNullable:!0})],e.prototype,"accentColor",void 0),o([r({type:t,nonNullable:!0})],e.prototype,"textColor",void 0),e=o([c("esri.views.Theme")],e);const p=e;export{p};

@@ -1,0 +1,1 @@
+import{W as s,_ as r,a as n,e as p}from"./index-luRCGOLz.js";var t;let e=t=class extends s{constructor(o){super(o),this.type="selection"}clone(){return new t}};r([n({type:["selection"],readOnly:!0,json:{write:!0}})],e.prototype,"type",void 0),e=t=r([p("esri.layers.support.FeatureReductionSelection")],e);export{e as p};

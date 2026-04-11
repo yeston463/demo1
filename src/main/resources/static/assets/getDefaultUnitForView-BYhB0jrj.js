@@ -1,0 +1,1 @@
+import{a7 as a,a8 as i}from"./index-luRCGOLz.js";function o(e){const t="metric";if(!e)return t;const{map:r}=e,n=(r&&"portalItem"in r?r.portalItem?.portal:null)??a.getDefault();switch(n.user?.units??n.units){case t:return t;case"english":return"imperial"}return i(e.spatialReference)??t}export{o as e};
