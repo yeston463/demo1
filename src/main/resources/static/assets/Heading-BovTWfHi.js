@@ -1,1 +1,0 @@
-import{av as a}from"./index-luRCGOLz.js";import{e as l}from"./globalCss-GavmZTb0.js";import{x as c,p as s}from"./widget-CLlgby-1.js";function p({level:r,class:n,...i},o){const e=t(r);return c(`h${e}`,{...i,"aria-level":String(e),class:s(l.heading,n),role:"heading"},o)}function t(r){return a(Math.ceil(r),1,6)}function h(r,n=1){return t(r+n)}export{p as i,h as l};

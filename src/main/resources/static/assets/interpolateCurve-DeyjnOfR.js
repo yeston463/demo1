@@ -1,1 +1,0 @@
-import{e7 as f,e9 as i,ej as c,eb as n,ec as h,ek as a,ee as j,ef as l,eg as m,el as b}from"./index-luRCGOLz.js";function g(r,e,s){if(f(e))return[r[0]+s*(e[0]-r[0]),r[1]+s*(e[1]-r[1])];if(i(e))return c(r,e,s);if(n(e)){const t=h(r,e);return a(t,s)}if(j(e)){const t=l(r,e);return a(t,s)}const o=m(r,e);return b(o,s)}export{g as n};

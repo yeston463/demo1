@@ -1,1 +1,0 @@
-import{_ as t,a as o,e as s}from"./index-luRCGOLz.js";import{e as p}from"./View2D-Cx_kAFIK.js";let e=class extends p{constructor(r){super(r),this.view2dType="map"}};t([o({readOnly:!0})],e.prototype,"view2dType",void 0),e=t([s("esri.views.MapView")],e);const c=e;export{c as p};

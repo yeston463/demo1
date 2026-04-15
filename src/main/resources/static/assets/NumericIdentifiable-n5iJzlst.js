@@ -1,1 +1,0 @@
-import{_ as o,Z as c}from"./index-luRCGOLz.js";let a=0;const l=t=>{const r=t;let e=class extends r{constructor(...s){super(...s),Object.defineProperty(this,"uid",{writable:!1,configurable:!1,value:a++})}};return e=o([c("esri.core.NumericIdentifiable")],e),e};export{l as s};

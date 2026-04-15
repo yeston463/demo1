@@ -1,1 +1,0 @@
-import{r as n}from"./zscale-NtC89zwM.js";function i(o,f,e){if(!e?.features||!e.hasZ)return;const t=n(e.geometryType,f,o.outSpatialReference);if(t)for(const r of e.features)t(r.geometry)}export{i as t};

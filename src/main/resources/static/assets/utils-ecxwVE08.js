@@ -1,1 +1,0 @@
-import{b$ as a,c0 as c}from"./index-luRCGOLz.js";function s(e){return{geometryType:c(e[0]),geometries:e.map(r=>r.toJSON())}}function u(e,r,o){const n=a(r);return e.map(m=>{const t=n.fromJSON(m);return t.spatialReference=o,t})}export{s as o,u as r};
